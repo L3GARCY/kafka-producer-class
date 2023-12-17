@@ -1,2 +1,2 @@
 # kafka-producer-class
-kafka producer class using confluence python library
+kafka producer class using confluent python library
